@@ -1,0 +1,18 @@
+body{
+    width: 980px;
+    margin: 0 auto;
+    border: solid 3px orange;
+}
+.contents{
+    border: solid 1px orange;
+    margin: 30px;
+}
+h1{
+    padding: 10px;
+}
+dl{
+    padding: 10px;    
+}
+.contents p{
+    margin: 10px;
+}
